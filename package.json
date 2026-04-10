@@ -1,0 +1,23 @@
+{
+  "name": "expo-font-assets",
+  "version": "1.0.0",
+  "description": "Local .ttf fonts packaged for Expo (expo-font / useFonts)",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "**/*.ttf"
+  ],
+  "keywords": [
+    "expo",
+    "expo-font",
+    "fonts",
+    "react-native"
+  ],
+  "peerDependencies": {
+    "expo-font": ">=12",
+    "react": ">=18"
+  },
+  "license": "UNLICENSED"
+}
