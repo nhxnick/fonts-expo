@@ -2,6 +2,10 @@
   "name": "expo-font-assets",
   "version": "1.0.0",
   "description": "Local .ttf fonts packaged for Expo (expo-font / useFonts)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nhxnick/fonts-expo.git"
+  },
   "main": "index.js",
   "types": "index.d.ts",
   "files": [
